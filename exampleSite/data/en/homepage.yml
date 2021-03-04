@@ -4,7 +4,7 @@ banner:
   bg_image: images/homepageheader1.jpg
   bg_overlay: true
   title: Hi, I'm Sam.
-  content: Public Policy Student and Data Enthusiast.
+  content: Public Policy Student, Data Enthusiast.
   button:
     enable: true
     label: Get In Touch
