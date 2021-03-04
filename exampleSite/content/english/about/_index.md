@@ -1,6 +1,7 @@
 ---
 title: Hello, I’m Sam.
 description: Master of Public Policy Student and Data Enthusiast
-bg_image: images/featue-bg.jpg
+bg_image: images/jail_fence.jpg
 
 ---
+Text
