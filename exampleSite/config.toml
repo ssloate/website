@@ -146,9 +146,9 @@ home = ["HTML"]
 author = "Themefisher"
 contact_form_action = "#"
 description = "This is meta description"
-email = "demo@email.com"
+email = "samsloate@gmail.com"
 google_analitycs_id = ""
-location = "North Main Street,Brooklyn Australia"
+location = "Durham, North Carolina"
 logo = "images/logo.png"
 logo_width = "150px"
 mobile = "0124857985320"
@@ -157,7 +157,7 @@ multi_author = false
 enable = true
 expire_days = 2
 [params.gmap]
-enable = true
+enable = false
 gmap_api = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
@@ -202,20 +202,6 @@ preloader = ""
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[params.social]]
-icon = "ion-social-googleplus-outline"
-link = "#"
-[[params.social]]
 icon = "ion-social-linkedin-outline"
-link = "#"
+link = "https://www.linkedin.com/samanthasloate3"
 [[params.social]]
-icon = "ion-social-pinterest-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-dribbble-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-twitter-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-facebook-outline"
-link = "#"
