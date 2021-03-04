@@ -3,14 +3,12 @@ about:
   enable: true
   image: images/sanford.jpeg
   title: A Bit More About Me.
-  content: "I previously worked for a federal consulting firm outside Washington,
-    DC where I focused on mixed methods research, evaluation, and program support
-    for workforce development and poverty alleviation initiatives. <p>\n\nAt Duke
-    University's <b><a href=\"https://www.duke.sanford.edu\">Sanford School of Public
-    Policy</a> </b>, I'm concentrating in social policy and strive to improve social
-    policy programs through robust research, evaluation, and administration. I'm especially
-    interested in social safety net programs, family economic policy, and the application
-    of data science analysis to the public sector. "
+  content: |-
+    I previously worked for a federal consulting firm outside Washington, DC where I focused on mixed methods research, evaluation, and program support for workforce development and poverty alleviation initiatives. <p>
+
+    At Duke University's <b><a href="https://www.duke.sanford.edu">Sanford School of Public Policy</a> </b>, I'm concentrating in social policy with the goal of improving social policy programs through robust research, evaluation, and administration. I'm especially interested in social safety net programs, family economic policy, and the application of data science analysis to the public sector. <p>
+
+    My current projects include evaluating the trends and causes of mass incarceration, exploring the state of maternal care for pregnant women in North Carolina's jails, and examining the link between welfare aid and childhood outcomes.
   button:
     enable: true
     label: Learn More
