@@ -3,9 +3,10 @@ about:
   enable: true
   image: images/sanford.jpeg
   title: A little about me.
-  content: I'm at Duke University's<a href="https://www.duke.sanford.edu">Sanford
-    School of Public Policy</a> getting my Master's degree. With it, I'm going to
-    improve social and economic programs using an interdisciplinary, data-driven approach.  </br>
+  content: I'm at Duke University's <b><a href="https://www.duke.sanford.edu">Sanford
+    School of Public Policy</a> </b> getting my Master's degree. </br> With it, I'm
+    going to improve social and economic programs using an interdisciplinary, data-driven
+    approach.  </br> In my spare time, I'm a baker, biker, and crossword solver.
   button:
     enable: true
     label: Learn More
