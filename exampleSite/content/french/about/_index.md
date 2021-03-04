@@ -1,7 +1,6 @@
 ---
-title: Hello, I’m Sam.
-description: Master of Public Policy Student and Data Enthusiast
+title: About Our Company
+description: this is meta description
 bg_image: images/jail_fence.jpg
-draft: true
 
 ---
