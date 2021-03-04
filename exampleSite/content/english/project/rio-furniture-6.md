@@ -1,16 +1,14 @@
 ---
 title: Mandatory Minimums and Mass Incarceration
-description: " "
+description: " Research Assistantship"
 image: images/portfolio/work6.jpg
 bg_image: images/featue-bg.jpg
-category: Video
+category: Data Science
 information:
-- label: Client
-  info: Jannie Kelonsky
-- label: What We Did
-  info: Website Redesign
+- label: What We're Doing
+  info: Academic Research
 - label: Tools Used
-  info: Photoshop,Illustrator
+  info: Python, GitHub
 - label: Completed on
   info: 17th March 2014
 - label: Skills
