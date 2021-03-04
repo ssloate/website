@@ -3,7 +3,7 @@ about:
   enable: true
   image: images/sanford.jpeg
   title: A bit about me.
-  content: I'm at Duke University's <b><a href="https://www.duke.sanford.edu">Sanford
+  content: <p> I'm at Duke University's <b><a href="https://www.duke.sanford.edu">Sanford
     School of Public Policy</a> </b> getting my Master's degree. <p> With it, I'm
     going to improve social and economic programs using an interdisciplinary, data-driven
     approach. <p> When I'm not thinking about the social policy or civic tech, I'm
