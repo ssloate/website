@@ -8,7 +8,7 @@ banner:
   button:
     enable: true
     label: Get In Touch
-    link: <a href="mailto:samsloate@gmail.com"></a>
+    link: https://samsloate.netlify.app/contact/
 about:
   enable: true
   title: A Bit About Me
