@@ -6,9 +6,9 @@ banner:
   title: Hi, I'm Sam.
   content: Public Policy Student and Data Enthusiast.
   button:
-    enable: false
-    label: Discover Our Project
-    link: project
+    enable: true
+    label: Get In Touch
+    link: <a href="mailto:samsloate@gmail.com"></a>
 about:
   enable: true
   title: A Bit About Me
