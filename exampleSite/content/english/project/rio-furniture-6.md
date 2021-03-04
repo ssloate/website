@@ -9,12 +9,10 @@ information:
   info: Academic Research
 - label: Tools Used
   info: Python, GitHub
-- label: Completed on
-  info: 17th March 2014
+- label: Started
+  info: December 2020
 - label: Skills
-  info: HTML5 / PHP / CSS3
-- label: Client
-  info: Jannie Kelonsky
+  info: Causal Inference / Python / Project Management / Statistical Analysis
 
 ---
 ## Behance Website Redesign
