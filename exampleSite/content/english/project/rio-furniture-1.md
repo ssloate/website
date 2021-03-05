@@ -6,8 +6,8 @@ bg_image: images/featue-bg.jpg
 category: Policy
 information:
 - label: Client
-  info: North Carolina Perinatal <br> &emsp;&emsp&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-    Health and Incarceration <br> &emsp;&emsp&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Working
+  info: North Carolina Perinatal <br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    Health and Incarceration <br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Working
     Group
 - label: What We're Doing
   info: Policy Analysis
