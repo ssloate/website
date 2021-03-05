@@ -2,7 +2,7 @@
 title: Mandatory Minimums and Mass Incarceration
 description: " Research Assistantship"
 image: images/portfolio/work6.jpg
-bg_image: images/featue-bg.jpg
+bg_image: "/images/jail_fence.jpg"
 category: Data Science
 information:
 - label: What We're Doing
@@ -15,32 +15,10 @@ information:
   info: Causal Inference / Python / Project Management / Statistical Analysis
 
 ---
-## Behance Website Redesign
+## Understanding Trends and Causes
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
-reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
-at provident soluta consequatur.
+In the past 30 years, many states have enacted mandatory minimum legislation that purports to decrease judicial and prosecutorial discretion in sentencing, as well as increase the minimum time served by convicted defendants. But our understanding of these policies -- which emerged largely during the tough-on-crime period of the 1990s --  is surprisingly limited. While one may assume that high mandatory minimum sentences would lead to longer prison sentences, recent work has shown little evidence to confirm that actual sentence length increased proportionally to lengths in sentencing laws. Prosecutorial discretion may be behind this phenomenon, as prosecutors use harsh sentencing laws to coerce defendants into pleading guilty to lesser crimes. <p>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibusdam sed, neque recusandae, est
-odit. A facere tempore soluta laborum.
+Given increasing evidence from the mid-1990s forward that mass incarceration is driven by a rise of the share of cases charged by prosecutors, it is critically important to understand understand the role of mandatory minimum and "third strike" sentencing laws that similarly impose higher penalties. This project aims to fill data gaps by estimating the causal effect of mandatory minimum and third strike legislation on plea bargaining outcomes.<p>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, rem eaque facilis. Sit, voluptas?
-Error soluta odio, harum tenetur, alias in iure ipsam blanditiis illo, ratione, magnam a minima incidunt!
-Suscipit facilis, ut maxime libero necessitatibus, rerum aut voluptates aliquam maiores iusto qui
-temporibus nesciunt, incidunt in quasi. Veniam aliquid ea aperiam, obcaecati voluptate ab, temporibus
-fugiat at, inventore molestiae quibusdam, modi numquam debitis libero aut eum. Architecto sit quia quidem
-odit, quasi eveniet reprehenderit rerum dolorem voluptate sed aspernatur numquam enim, adipisci iste optio
-ea libero laboriosam praesentium aperiam nobis vero tempore consequuntur sapiente eos at. Suscipit quis
-voluptatibus temporibus dolore consectetur ex excepturi adipisci sunt. Maxime aperiam eos illum minima
-aliquid voluptate autem qui at impedit recusandae earum possimus, alias, maiores sint, sed quia quis aut
-cupiditate voluptatem reiciendis. Facilis nobis assumenda totam officiis dicta autem dolorem quidem
-similique, delectus rerum laborum veritatis, cum magnam dignissimos necessitatibus possimus error, eius
-omnis veniam culpa, porro officia adipisci exercitationem minus hic. Ipsum veritatis repudiandae nulla quo
-dicta voluptates tenetur mollitia perferendis sequi, magnam doloremque odit similique, sit, voluptas unde
-iste molestias. Accusantium, corporis quibusdam quod in animi earum alias autem ipsum. Eaque rem numquam
-delectus veniam commodi doloribus consequatur deleniti?
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores neque vero quasi quisquam atque in,
-libero ab sunt eius! Nesciunt laboriosam alias corporis sit accusantium voluptate sapiente debitis quos
-mollitia saepe maxime ipsum facilis dolore voluptas inventore veniam deleniti, eligendi harum aperiam iusto
-culpa? Delectus dolorum facere quasi iure explicabo?
+The project uses a confidential DOJ dataset: <i> State Court Processing Statistics: Felony Defendants in Large Urban Counties. </i> To answer the research question, I use Python to track individuals throughout the stages of arrest, criminal charge, adjudication outcome, and conviction. I employ a difference-in-difference framework and regression packages to statistically analyze the effect of third strike laws on any changes in outcomes, such as the distribution of arrest charge types, plea bargain frequency, case dismissal frequency, etc. around the time that states begin implementing third strike laws.
