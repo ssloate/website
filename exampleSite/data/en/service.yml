@@ -34,8 +34,8 @@ featured_service:
 service:
   enable: true
   title: Interests
-  description: 'Although my interests are broad, some of the things I find particularly
-    interesting are:'
+  description: 'Although my interests are broad, some topics I find particularly compelling
+    are:'
   service_item:
   - icon: ion-arrow-graph-up-left
     name: Branding
