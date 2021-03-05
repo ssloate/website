@@ -29,6 +29,6 @@ In the past 30 years, many states have enacted mandatory minimum legislation tha
 
 Given increasing evidence from the mid-1990s forward that mass incarceration is driven by a rise of the share of cases charged by prosecutors, it is critically important to understand understand the role of mandatory minimum and "third strike" sentencing laws that similarly impose higher penalties. This project aims to fill data gaps by estimating the causal effect of mandatory minimum and third strike legislation on plea bargaining outcomes.<p>
 
-<b> My Work </b>
+<b> My Work </b><p>
 
 The project uses a confidential DOJ dataset: <i> State Court Processing Statistics: Felony Defendants in Large Urban Counties. </i> To answer the research question, I use Python to track individuals throughout the stages of arrest, criminal charge, adjudication outcome, and conviction. I employ a difference-in-difference framework and regression packages to statistically analyze the effect of third strike laws on any changes in outcomes, such as the distribution of arrest charge types, plea bargain frequency, case dismissal frequency, etc. around the time that states begin implementing third strike laws.
