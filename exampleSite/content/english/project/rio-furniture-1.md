@@ -1,8 +1,8 @@
 ---
 title: Maternal Health for Incarcerated Women
 description: Client Project
-image: images/portfolio/work1.jpg
-bg_image: images/featue-bg.jpg
+image: "/images/maternalhealthicon.jpg"
+bg_image: "/images/maternalhealthbanner.jpg"
 category: Policy
 information:
 - label: Client
