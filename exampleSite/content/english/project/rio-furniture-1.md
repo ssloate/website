@@ -3,7 +3,7 @@ title: Maternal Health for Incarcerated Women
 description: Client Project
 image: images/portfolio/work1.jpg
 bg_image: images/featue-bg.jpg
-category: UI/UX Design
+category: Policy
 information:
 - label: Client
   info: Jannie Kelonsky
