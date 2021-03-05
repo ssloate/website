@@ -9,10 +9,8 @@ information:
   info: North Carolina Perinatal Health and Incarceration Working Group
 - label: What We're Doing
   info: Policy Analysis
-- label: Tools Used
-  info: 'Qualitative Analysis '
-- label: Completed on
-  info: 17th March 2014
+- label: Started
+  info: January 2021
 - label: Skills
   info: HTML5 / PHP / CSS3
 - label: Client
