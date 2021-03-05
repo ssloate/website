@@ -12,7 +12,7 @@ information:
 - label: Started
   info: January 2021
 - label: Skills
-  info: HTML5 / PHP / CSS3
+  info: Qualitative Analysis <br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 - label: Client
   info: Jannie Kelonsky
 
