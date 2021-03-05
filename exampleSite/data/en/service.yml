@@ -37,7 +37,7 @@ service:
   description: 'Although my interests are broad, some topics I find particularly compelling
     are:'
   service_item:
-  - icon: ion-arrow-graph-up-left
+  - icon: <ion-icon name="bar-chart-outline"></ion-icon>
     name: Branding
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
