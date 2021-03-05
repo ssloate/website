@@ -10,7 +10,7 @@ information:
 - label: What We're Doing
   info: Policy Analysis
 - label: Tools Used
-  info: Photoshop,Illustrator
+  info: 'Qualitative Analysis '
 - label: Completed on
   info: 17th March 2014
 - label: Skills
