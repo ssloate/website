@@ -1,6 +1,6 @@
 ---
 title: Maternal Health for Incarcerated Women
-description: this is meta description
+description: Client Project
 image: images/portfolio/work1.jpg
 bg_image: images/featue-bg.jpg
 category: UI/UX Design
