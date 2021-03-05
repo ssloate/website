@@ -34,7 +34,7 @@ portfolio:
     label: View Policy Projects
     link: project
 service:
-  enable: true
+  enable: false
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
@@ -66,12 +66,13 @@ funfacts:
     name: Combined Projects
     count: "200"
   testimonial_slider:
-  - name: Raymond Roy
-    image: images/clients/avater-1.jpg
-    designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
+  - name: Phi Beta Kappa Member
+    image: images/pbk.png
+    designation: Honor Society
+    content: Since our founding in 1776, Phi Beta Kappa has celebrated excellence
+      in the liberal arts and sciences and championed freedom of thought. As America’s
+      most prestigious academic honor society, we are uniquely equipped to advocate
+      for the value and benefits of liberal arts and sciences education.
   - name: Randi Renin
     image: images/clients/avater-1.jpg
     designation: CEO-Themefisher
