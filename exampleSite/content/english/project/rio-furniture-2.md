@@ -8,9 +8,9 @@ information:
 - label: What We're Doing
   info: TBD
 - label: Tools Used
-  info: Photoshop,Illustrator
-- label: Completed on
-  info: 17th March 2014
+  info: Python, Github
+- label: Started
+  info: March 2021
 - label: Skills
   info: HTML5 / PHP / CSS3
 - label: Client
