@@ -1,7 +1,7 @@
 ---
 title: Mandatory Minimums and Mass Incarceration
 description: " Research Assistantship"
-image: images/portfolio/work6.jpg
+image: "/images/mass-incarceration.jpeg"
 bg_image: "/images/jail_fence.jpg"
 category: Data Science
 information:
