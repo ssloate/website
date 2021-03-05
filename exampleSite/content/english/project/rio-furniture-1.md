@@ -8,7 +8,7 @@ information:
 - label: Client
   info: North Carolina Perinatal Health and Incarceration Working Group
 - label: What We're Doing
-  info: Policy Recommendations
+  info: Policy Analysis
 - label: Tools Used
   info: Photoshop,Illustrator
 - label: Completed on
