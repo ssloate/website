@@ -6,7 +6,7 @@ bg_image: "/images/jail_fence.jpg"
 category: Data Science
 information:
 - label: Working With
-  info: <a href="https://www.nickeubank.com">Dr. Nick Eubank</a> <br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a
+  info: <a href="https://www.nickeubank.com">Dr. Nick Eubank</a> <br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a
     href="https://www.david-hausman.com/">David Hausman, JD</a>
 - label: What We're Doing
   info: Academic Research
