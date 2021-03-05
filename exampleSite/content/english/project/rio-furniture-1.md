@@ -6,9 +6,9 @@ bg_image: images/featue-bg.jpg
 category: Policy
 information:
 - label: Client
-  info: Jannie Kelonsky
-- label: What We Did
-  info: Website Redesign
+  info: North Carolina Perinatal Health and Incarceration Working Group
+- label: What We're Doing
+  info: Policy Recommendations
 - label: Tools Used
   info: Photoshop,Illustrator
 - label: Completed on
