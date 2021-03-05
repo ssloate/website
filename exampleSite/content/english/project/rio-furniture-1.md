@@ -14,9 +14,9 @@ information:
 - label: Started
   info: January 2021
 - label: Skills
-  info: Qualitative Analysis <br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-    Project Management <br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-    Policy Research
+  info: Qualitative Analysis <br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Project
+    Management <br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Policy
+    Research
 
 ---
 ## Improving Maternal Care for Pregnant Women in North Carolina's Jails
