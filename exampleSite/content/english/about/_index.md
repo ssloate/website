@@ -1,6 +1,6 @@
 ---
 title: A Bit More About Me
 description: Public Policy Student and Data Enthusiast
-bg_image: ''
+bg_image: images/banner1.png
 
 ---
