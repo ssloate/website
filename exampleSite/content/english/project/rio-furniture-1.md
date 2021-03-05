@@ -13,6 +13,8 @@ information:
   info: January 2021
 - label: Skills
   info: Qualitative Analysis <br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    Project Management <br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    Policy Research
 - label: Client
   info: Jannie Kelonsky
 
