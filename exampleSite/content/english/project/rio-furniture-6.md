@@ -12,7 +12,7 @@ information:
 - label: Started
   info: December 2020
 - label: Skills
-  info: Causal Inference / Python / Project Management / Statistical Analysis
+  info: Causal Inference <br> Python  <br> Project Management <br> Statistical Analysis
 
 ---
 ## Understanding Trends and Causes
