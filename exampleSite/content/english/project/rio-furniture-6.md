@@ -18,7 +18,7 @@ information:
   info: Causal Inference <br> Python  <br> Project Management <br> Statistical Analysis
 
 ---
-## Understanding Trends and Causes
+## Understanding Trends and Causes of Mass Incarceration
 
 In the past 30 years, many states have enacted mandatory minimum legislation that purports to decrease judicial and prosecutorial discretion in sentencing, as well as increase the minimum time served by convicted defendants. But our understanding of these policies -- which emerged largely during the tough-on-crime period of the 1990s --  is surprisingly limited. While one may assume that high mandatory minimum sentences would lead to longer prison sentences, recent work has shown little evidence to confirm that actual sentence length increased proportionally to lengths in sentencing laws. Prosecutorial discretion may be behind this phenomenon, as prosecutors use harsh sentencing laws to coerce defendants into pleading guilty to lesser crimes. <p>
 
