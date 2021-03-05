@@ -25,7 +25,7 @@ information:
 
 Pregnant persons in county jails are a vulnerable population who face barriers to receiving proper maternal care. Yet, providing quality healthcare before, during and after pregnancy is especially important for these persons to ensure their unique needs are met and their children are healthy. <p>
 
-However, information on the prevalence of pregnant persons in jail and on jail policies is scarce. While the American College of Obstetricians and Gynecologists outlines  <a href="[https://www.aclu.org/state-standards-pregnancy-related-health-care-and-abortion-women-prison-0](https://www.aclu.org/state-standards-pregnancy-related-health-care-and-abortion-women-prison-0. "https://www.aclu.org/state-standards-pregnancy-related-health-care-and-abortion-women-prison-0.")"> <b>maternal health standards for incarcerated persons </b> </a>, North Carolina has few state laws regulating this care and leaves jail policy to the discretion of each county.
+However, information on the prevalence of pregnant persons in jail and on jail policies is scarce. While the American College of Obstetricians and Gynecologists outlines  <a href="[https://www.aclu.org/state-standards-pregnancy-related-health-care-and-abortion-women-prison-0](https://www.aclu.org/state-standards-pregnancy-related-health-care-and-abortion-women-prison-0 "https://www.aclu.org/state-standards-pregnancy-related-health-care-and-abortion-women-prison-0")">maternal health standards for incarcerated persons</a>, North Carolina has few state laws regulating this care and leaves jail policy to the discretion of each county.
 
 <b> My Work</b> <p>
 
